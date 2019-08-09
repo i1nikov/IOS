@@ -1,0 +1,660 @@
+body{
+  margin: 0 auto;
+  
+ 
+  min-width:750px;
+ 
+  
+  max-width:1324px;
+}
+
+.skills{
+  
+  width: 279px;
+  text-align:left;
+  
+  position: absolute;
+  margin-left: 306px;
+  margin-top: 5px;
+}
+.map{
+  height:95px;
+  width: 277px;
+}
+input{
+  width:273px;
+  height: 15px;
+  margin-top:5px;
+  border: solid 0px;
+}
+.massage{
+  width:273px;
+  height: 66px;
+  
+  
+}
+.forms{
+  width: 279px;
+  text-align:left;
+ 
+  
+  margin-left: 594px;
+  margin-top: 7px;
+}
+.cont{
+  
+  position: relative;
+  width: 88%;
+ 
+  margin: 0 auto;
+  
+  
+ border-color: #788d9a;
+}
+.forabout{
+  margin-top: -10px;
+    margin-left:27px
+}
+.hum{
+ 
+ 
+ 
+ display:none;
+  width: 60px;
+  height: 40px;
+ 
+  
+  
+  background:
+    url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAARMAAAC3CAMAAAAGjUrGAAAAMFBMVEX///8AAADl5eX09PSurq7V1dUICAhTU1Orq6tJSUnp6enj4+Pd3d1DQ0P6+vq9vb1CIEbWAAAA8klEQVR4nO3dOQ4CQRAEQe5jWeD/v8VGaSGMXiPiCWlWjzS7HQAAAAAAAAAAAADwbT0PW6YL1HM/7DZdoK7TTU7TBUqT0qQ0KU1Kk9KkNClNSpPSpDQpTUqT0qQ0KU1Kk9KkNKn7dJMNbtTHaa/pAgAAAAD86rq/jNri9miPLU1Kk9KkNClNSpPSpDQpTUqT0qQ0KU1Kk9KkNClNSpPSpLwFrfdp1m2dLgAAAAAA/1sOsx7H6QJljy27fWlSmpQmpUlpUpqUJqVJaVKalCalSWlSmpQmpUlpUpqUJuWPs5q+ZRw2eMsAAAAAAAAAAAAAYMIHx3su3LQF590AAAAASUVORK5CYII=");
+ 
+    
+    background-size: contain ;
+  cursor:pointer;
+}
+.button3{
+ margin-left: 173px;
+   width:104px;
+  height:24px;
+ background: #9acfef;
+  color: white;
+  border: 0px solid;
+  
+}
+.spanservices{
+  font-size: 38px;
+  font-family: gabriola;
+}
+.about{
+  background: #d1d1d1;
+ position: absolute;
+  height:370px;
+  
+  text-align: center;
+  width: 100%;
+ 
+  
+ top: 668px;
+  
+
+}
+.article{
+  text-align: center;
+  width:987px;
+  
+ top: 306px;
+  left:105px;
+ 
+  
+ 
+  position: absolute;
+  
+ display: inline-block;
+}
+
+
+.headings{
+position: absolute;
+left:213px;
+  top:65px;
+ 
+  
+}
+ .nav:hover {
+    transition: 1s;
+    color: gray ;  
+}
+
+a:hover {
+    transition: 2s;
+    background: white ;  
+}
+.apple{
+  width:75px;
+    height:75px;
+  
+  
+}
+ 
+.heading{
+  
+  
+  text-align: center;
+   display: inline-block;
+  margin: 7px;
+  
+ 
+}
+ 
+ 
+ 
+ 
+.mobile{
+  height: 265px;
+  width: 193px;
+}
+.divmobile{ 
+  
+  margin-left:318px;
+  margin-top: 18px;
+  
+}
+.task{
+  font-size:20px;
+  font-family:corbel
+}
+ .image{
+ 
+   
+  height:282px;
+  margin-top: -7px;
+  background:  #B0E0E6;  
+   border: 1px solid;
+   border-color: #B0E0E6;  
+}
+.button1{
+    margin-top: -2px;
+  margin-left: 6px;
+  width:104px;
+  height:24px;
+ background: #9acfef;
+  color: white;
+  border: 0px solid;
+}
+ .text{
+  margin-left:  601px;
+    margin-top:  -208px;
+}
+ul{
+    
+  margin-left: 622px;
+  margin-top: -40px;
+ 
+  
+}
+.test{
+   margin-left: 318px;
+  margin-top: 11px;
+   
+}
+p.dline3 {
+    line-height: 1.4;
+   font-size: 9px;
+  
+}
+
+ p.dline {
+    line-height: 1;
+   font-size: 9px;
+   font-family: arial;
+  
+}
+.skillsimage{
+  width:274px;
+  margin-top: 0px;
+  
+}
+.spanforskiils{
+  font-size: 13px;
+   font-family: arial;
+  color:#789cc4;
+}
+  
+  
+ p.dline1 {
+    line-height: 1;
+    font-size:12px;
+  color:#9acfef;
+}
+.button2{
+   width:77px;
+  height:20px;
+ background: #9acfef;
+  color: white;
+  border: 0px solid;
+  margin-top: 6px;
+   margin-left: -3px; 
+}
+.spantest{
+  font-size: 13px;
+   background: linear-gradient(white, #b0b0b0);   
+    -webkit-background-clip: text; 
+    color: transparent;
+
+  color:
+}
+.template{
+  color:  #F5FFFA;
+  font-size:11px;
+  
+  
+}
+.lorem{
+color:  #62626D;
+  font-family:candara ;
+  font-size:13px;
+}
+
+.nav{
+ color:  #F5FFFA; 
+    font-family:  corbel;
+ 
+ font-size: 11px; 
+
+}
+
+
+a {
+  text-decoration: none;  
+}
+ .ios{
+  font-family:  garamond;
+  color:  #F5FFFA; 
+ 
+ font-size: 34px; 
+}
+
+li {
+   
+   margin:10px; 
+   display: inline-block;
+ 
+ 
+   } 
+
+
+
+nav{
+ 
+ 
+  position: absolute;
+  background-color:#62626D;
+ left:0%;
+  width:100%;
+  }
+  
+  
+
+ .checkbox{
+  display:none;
+}
+input:checked ~ ul>li  {
+         height:28px;
+       transition:1s;
+ 
+   }
+ 
+ 
+ 
+ 
+
+
+
+
+
+  
+    
+@media screen and (max-width: 1100px){   
+    .divmobile{
+      margin-left:208px;
+      margin-top: 18px;}
+  .cont{
+    width:100%;
+       
+     
+  }
+  .text{
+  margin-left:  580px;
+    margin-top:  -208px;}
+  ul{
+    
+  margin-left: 602px;
+    margin-top: -40px;}   
+   .test{
+   margin-left: 218px;
+  margin-top: 11px;
+}
+  .article{
+  text-align: center;
+ 
+    
+ top: 306px;
+  left: 0%;
+  }
+  .apple{
+  width:100px; 
+    height:100px;
+    margin:0px;
+  }
+  p.dline1 {
+    line-height: 1.4;
+   font-size: 11px;
+  
+}
+
+ p.dline {
+    line-height: 1;
+   font-size: 10px;
+   font-family: arial;}
+  .skills{
+    margin-left: 206px;}
+  .forms{
+   
+  
+  margin-left: 504px;
+  }
+  .about{
+     top: 698px;
+        height:340px;
+    
+  }
+  
+  @media screen and (max-width: 900px){   
+    .divmobile{
+      margin-left:158px;
+      margin-top: 18px;}
+  .cont{
+    width:100%;
+       
+     
+  }
+      .about{
+      top: 698px;
+        height:320px;
+      }
+  .text{
+  margin-left:  500px;
+    margin-top:  -208px;}
+  ul{
+    
+  margin-left: 472px;
+    margin-top: -40px;}   
+   .test{
+   margin-left: 218px;
+  margin-top: 11px;
+}
+  .article{
+  text-align: center;
+ 
+    
+ top: 306px;
+  left: -5%;
+  }
+  .apple{
+  width:100px; 
+    height:100px;
+    margin:0px;
+  }
+  p.dline1 {
+    line-height: 1.4;
+   font-size: 11px;
+  
+}
+
+ p.dline {
+    line-height: 1;
+   font-size: 10px;
+   font-family: arial;}
+  .skills{
+    margin-left: 116px;}
+  .forms{
+   
+  
+    margin-left: 424px;
+      }
+      
+  
+
+      
+     
+      @media screen and (max-width: 800px){   
+    .divmobile{
+      margin-left:2%;
+      margin-top: 18px;}
+  .cont{
+    width:100%;
+       
+     
+  }
+  .text{
+  margin-left:  29%;
+   }
+  ul{
+    
+  margin-left: 212px;
+    margin-top: -50px;
+    }   
+   .test{
+   margin-left: 3%;
+  margin-top: 11px;
+}
+  .article{
+  text-align: center;
+ 
+    
+ top: 276px;
+  left: -26%;
+  }
+  .apple{
+  width:150px; 
+    height:150px;
+    margin:0px;
+  }
+  p.dline1 {
+    line-height: 1.4;
+   font-size: 24px;
+  
+}
+
+ p.dline {
+  
+   font-size: 13px;
+   }
+  .skills{
+       margin-top:48px;  
+    margin-left:18px;}
+  .forms{
+   
+  
+    margin-left: 334px;}
+   .ios{
+  
+ 
+ font-size: 74px; 
+   }
+   .lorem{
+ 
+     font-size:20px;}
+   .nav{
+   font-size: 24px; 
+        }
+   .about{
+     top: 768px;
+       height:640px;
+     
+   }
+           
+   .button2{
+   width:207px;
+  height:30px;
+    
+     background: blue;
+   }
+   .button1{
+   width:307px;
+  height:30px;
+     background:blue;
+        }
+  p.dline3 {
+    line-height: 1.2;
+     font-size: 15px;}
+      .task{
+        font-size:32px;}
+      .map{
+  height:155px;
+  width: 357px;}
+input{
+  width:353px;
+  height: 24px;
+  margin-top:8px;
+  border: solid 0px;}
+.massage{
+  width:353px;
+  height: 66px;}
+      .skillsimage{
+  width:279px;} 
+ 
+   
+  @media screen and (max-width: 750px){   
+    .divmobile{
+      margin-left:2%;
+      margin-top: 8px;}
+     
+    
+  .cont{
+    width:100%;
+       
+     
+  }
+    li{
+     
+ display: block;
+     height:0px;
+  overflow: hidden;  
+     }
+ 
+   
+
+    .hum{
+      display:block;
+    }
+  .text{
+  margin-left:  16%;
+    margin-top: -280px;
+   }
+  ul{
+    
+  margin-left: 32px;
+    margin-top: -50px;
+    }   
+   .test{
+    display:none;
+}
+  .article{
+       
+  text-align: center;
+ 
+    
+ top: 276px;
+  left: -1%;
+  }
+  .apple{
+  width:200px; 
+    height:200px;
+    margin:0px;
+  }
+  p.dline1 {
+    line-height: 1.4;
+    font-size: 34px;}
+
+
+ p.dline {
+  
+   font-size: 16px;}
+ 
+  
+ 
+   
+     
+    
+    
+  .skills{
+       margin-top:418px;  
+    margin-left:198px;}
+  .forms{
+    
+   margin-left: 135px;}
+     
+ 
+   .ios{
+  
+ 
+     font-size: 74px; }
+ 
+   .lorem{
+ 
+     font-size:20px;}
+   .nav{
+   font-size: 24px; }
+   .about{
+     top: 1758px;
+     height:960px;}
+   
+  
+   .button2{
+   width:357px;
+  height:40px;
+    
+     background: blue;
+   }
+   .button1{
+   width:448px;
+  height:40px;
+     background:blue;}
+  
+ 
+   
+   p.dline3 {
+    line-height: 1.2;
+     font-size: 15px;}
+      .task{
+        font-size:32px;}
+      .map{
+  height:175px;
+        width: 507px;}
+    .divmobile{
+      visibility: hidden;
+    }
+
+input{
+  width:275px;
+  height: 24px;
+  margin-top:8px;
+  border: solid 0px;}
+ 
+.massage{
+  width:503px;  
+  height: 66px;}
+ 
+      
+        
+    .heading{
+      display:block;
+    }
+    .image{
+      height:240px;
+    }
+    .skillsimage{
+      width:340px;
+      height: 30px;
+    }
